@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11.493" height="11" viewBox="0 0 11.493 11">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fad281"/>
+      <stop offset="0" stop-color="#ebcb65"/>
+      <stop offset="0.506" stop-color="#ffdc92"/>
+      <stop offset="1" stop-color="#fcea94"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_817" data-name="Grupo 817" transform="translate(-717.382 -4268)">
+    <g id="Grupo_816" data-name="Grupo 816">
+      <g id="Grupo_815" data-name="Grupo 815">
+        <g id="Grupo_814" data-name="Grupo 814">
+          <path id="FontAwsome_star_" data-name="FontAwsome (star)" d="M25.629.37l-1.4,2.844-3.138.458a.688.688,0,0,0-.38,1.173l2.271,2.213-.537,3.126a.687.687,0,0,0,1,.724l2.808-1.476,2.808,1.476a.688.688,0,0,0,1-.724l-.537-3.126,2.271-2.213a.688.688,0,0,0-.38-1.173l-3.138-.458L26.862.37a.688.688,0,0,0-1.233,0Z" transform="translate(696.883 4268.013)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

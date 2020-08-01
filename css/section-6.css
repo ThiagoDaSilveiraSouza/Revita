@@ -1,0 +1,35 @@
+#section-6 {
+  text-align: center;
+  padding-top: 100px;
+}
+#section-6 .centralizer h3 {
+  text-transform: uppercase;
+  font-size: clamp(1em, 1em + 1vw, 3em);
+  margin: 0;
+}
+#section-6 .centralizer h4 {
+  font-weight: 300;
+}
+/* .media-comments */
+.media-comments {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+.media-comments .media-card {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  max-width: 270px;
+  font-style: italic;
+  margin: 20px 10px;
+}
+.media-comments .media-card img:nth-child(1) {
+  filter: grayscale(100%);
+}
+.media-comments .media-card img {
+  margin-bottom: 30px;
+  max-width: 100%;
+}

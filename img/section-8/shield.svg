@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="198.36" height="254" viewBox="0 0 198.36 254">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff080"/>
+      <stop offset="0.085" stop-color="#b37f36"/>
+      <stop offset="0.214" stop-color="#fff3a8"/>
+      <stop offset="0.251" stop-color="#e8d284"/>
+      <stop offset="0.293" stop-color="#d3b363"/>
+      <stop offset="0.328" stop-color="#c6a04e"/>
+      <stop offset="0.351" stop-color="#c29a47"/>
+      <stop offset="0.391" stop-color="#c7a351"/>
+      <stop offset="0.46" stop-color="#d7bc6c"/>
+      <stop offset="0.549" stop-color="#f0e498"/>
+      <stop offset="0.56" stop-color="#f4ea9e"/>
+      <stop offset="0.612" stop-color="#e5d285"/>
+      <stop offset="0.671" stop-color="#d8be6f"/>
+      <stop offset="0.71" stop-color="#d4b768"/>
+      <stop offset="0.797" stop-color="#fff3a8"/>
+      <stop offset="0.903" stop-color="#b37f36"/>
+      <stop offset="1" stop-color="#fff3a8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fad281"/>
+      <stop offset="0" stop-color="#ebcb65"/>
+      <stop offset="0.506" stop-color="#ffdc92"/>
+      <stop offset="1" stop-color="#fcea94"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_875" data-name="Grupo 875" transform="translate(-48.763 -44.234)">
+    <path id="Caminho_1219" data-name="Caminho 1219" d="M199.561,74.243c-27.482-12.137-51.618-30.009-51.618-30.009S123.806,62.106,96.325,74.243C69.888,85.919,48.763,87.031,48.763,87.031v88.928c0,24.455,3.765,51.134,34.511,81.146s64.67,41.129,64.67,41.129,33.923-11.116,64.669-41.129,34.511-56.691,34.511-81.146V87.031S226,85.919,199.561,74.243Z" fill="#fad281"/>
+    <path id="Caminho_1220" data-name="Caminho 1220" d="M150.546,286.332A180.142,180.142,0,0,1,95.7,250.2c-27.929-27.265-30.266-50.061-30.266-71.075V102.492a178.04,178.04,0,0,0,39.173-12.209C123.367,82,140.7,71.136,150.542,64.54c9.843,6.6,27.175,17.46,45.932,25.743a178.04,178.04,0,0,0,39.173,12.209v76.631c0,21.014-2.337,43.81-30.267,71.075A179.835,179.835,0,0,1,150.546,286.332Z" transform="translate(-2.599 -3.165)" fill="url(#linear-gradient)"/>
+    <path id="Caminho_1221" data-name="Caminho 1221" d="M151.158,283.476A177.257,177.257,0,0,1,98.63,248.563c-27.009-26.366-29.269-48.4-29.269-68.706v-73.9a183.352,183.352,0,0,0,37.2-11.91,313.084,313.084,0,0,0,44.594-24.795,313.023,313.023,0,0,0,44.593,24.795,183.34,183.34,0,0,0,37.2,11.91v73.9c0,20.307-2.26,42.34-29.269,68.706A176.973,176.973,0,0,1,151.158,283.476Z" transform="translate(-3.211 -3.9)" fill="url(#linear-gradient-2)"/>
+    <path id="Caminho_1223" data-name="Caminho 1223" d="M163.641,116.459l3.175,6.432,7.1,1.032-5.136,5.007L169.99,136l-6.349-3.338L157.292,136l1.212-7.07-5.136-5.007,7.1-1.032Z" transform="translate(-16.305 -11.258)" fill="#a6753b"/>
+    <path id="Caminho_1224" data-name="Caminho 1224" d="M135.168,120.733l2.394,4.85,5.352.778-3.873,3.775.914,5.331-4.787-2.517-4.787,2.517.914-5.331-3.873-3.775,5.352-.778Z" transform="translate(-12.26 -11.924)" fill="#a6753b"/>
+    <path id="Caminho_1225" data-name="Caminho 1225" d="M193.416,120.733l2.394,4.85,5.352.778-3.873,3.775.914,5.331-4.787-2.517-4.787,2.517.914-5.331-3.873-3.775,5.352-.778Z" transform="translate(-21.34 -11.924)" fill="#a6753b"/>
+    <text id="GARANTIA" transform="translate(83.448 161.379)" fill="#a6753b" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">GARANTIA</tspan></text>
+    <text id="_30" data-name="30" transform="translate(97.824 235.359)" fill="#a6753b" font-size="83" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">30</tspan></text>
+    <text id="DIAS" transform="translate(122.562 251.352)" fill="#a6753b" font-size="12" font-family="Roboto-Light, Roboto" font-weight="300" letter-spacing="0.5em"><tspan x="0" y="0">DIAS</tspan></text>
+  </g>
+</svg>

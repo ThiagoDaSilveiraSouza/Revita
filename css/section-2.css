@@ -1,0 +1,62 @@
+#section-2 {
+  margin: 20px 0;
+  background: #f9f9f9;
+  padding-top: 80px;
+}
+/* .centralizer*/
+#section-2 .centralizer {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: auto auto;
+  grid-template-areas:
+    'mulher-2 text2'
+    'mulher-2 text2';
+}
+/* .section-2-woman */
+.section-2-woman {
+  display: flex;
+  justify-content: center;
+  grid-area: mulher-2;
+  position: relative;
+  align-items: flex-end;
+}
+.section-2-woman img {
+  width: 100%;
+}
+/* .section-2-description  */
+.section-2-description {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  grid-area: text2;
+}
+.section-2-description h2 {
+  font-weight: lighter;
+  text-transform: uppercase;
+  font-size: clamp(1em, 1em + 2vw, 3em);
+  /* font-size: 42px; */
+}
+.section-2-description h2 span {
+  font-size: 190%;
+  font-weight: lighter;
+}
+#section-2 > .shine-underline {
+  height: 8px;
+  border-radius: unset;
+}
+
+@media (max-width: 1000px) {
+  #section-2 {
+    background: unset;
+  }
+  #section-2 .centralizer {
+    grid-template-areas:
+      'text2 text2'
+      'mulher-2 mulher-2';
+  }
+  .section-2-woman,
+  .section-2-description {
+    width: 90vw;
+  }
+}
